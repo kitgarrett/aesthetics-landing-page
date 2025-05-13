@@ -550,7 +550,7 @@ dl dd {
   appearance: none;
   background: #fff;
   border: .05rem solid #5755d9;
-  border-radius: .1rem;
+  border-radius: x15px;
   color: #5755d9;
   cursor: pointer;
   display: inline-block;
